@@ -4,7 +4,8 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+<img src="https://huan-robotics.github.io/image/huanyu.jpg" class="floatpic" width="360">
+<!-- <img src="https://huan-robotics.github.io/image/huanyu.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Huan Yu (于欢)**.
 
