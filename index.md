@@ -4,48 +4,51 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Huan Yu (于欢)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am currently pursuing Ph.D degree at Zhejiang University, collaborating with Prof. Guodong Lu, Prof. Wang Jin and Prof. Gao Fei. My research focuses on robotics. Additionally, I am keen on exploring business principles and have garnered significant experience in entrepreneurship and investment. My ultimate goal is to create value for the betterment of human life.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *h[dot]yu[at]zju[dot]edu[dot]cn*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am seeking a postdoctoral position starting from Fall 2024. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2019 - Sep 2024:** DREAM-Lab, Zhejiang University (Ph.D. Candidate), collaborating with Prof. Guodong Lu.
+- **Feb 2022 - Sep 2024:** Fast-Lab, Zhejiang University (Exchange), collaborating with Prof. Fei Gao.
+- **Mar 2019 - Sep 2019:** APRIL Lab, Zhejiang University (Visiting), collaborating with Prof. Yong Liu.
+- **Sep 2016 - June 2019:** Mechanical Engineering, Kunming University of Science and Technology (BSc), collaborating with Prof. Hongbin Liu.
+- **Sep 2015 - June 2016:** Industrial Engineering, Kunming University of Science and Technology.
 
 <br>
 
 ---
 
 ## Research Interests
-
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Mobile Robotics (Aerial and Ground)
+- Motion Planning
+- Autonomous Decision Making (Reinforcement Learning, Differential Games, etc)
+- Robot Design
+I am interested in interdisciplinary research that combines “Motion Planning + Others” as they often complement each other.
 
 <br>
 
 ---
+## Entrepreneurship/Investment
+I am a lifetime member of the Future Entrepreneurs Club (FEC), Zhejiang University and I am pursuing a minor in Intensive Training Program of Innovation and Entrepreneurship (ITP) at the Chu Kochen Honors College, Zhejiang University (2022-2024).
+- **2017 - 2019：** Founder/CEO, Shui Niu Tech.(水牛科技), Shenzhen. Initially, we provided consulting services for science students participating in business competitions. Later, we focused on intellectual property services in the field of robotics and manufacturing. We have provided services to more than ten large and medium-sized enterprises.
+- **2018 - 2020：** Investor/Co-founder, Dian Xiao Qi restaurant chain (滇小七). We developed signature dishes such as Burmese Spicy Crabs and leveraged the geographical advantage of bordering Yunnan and Myanmar to purchase ingredients at low cost. We also built the “Dian Xiao Qi” brand IP. During its peak, we opened 5 restaurants in cities like Kunming and Xi’an.
+- **2019 - 2020：** Investment Manager Intern, Tsing Ventures (水木资本). I worked with Yanjiao Ma, focusing on investments in the TMT and hard technology fields. My responsibilities included investment analysis, due diligence, and a small amount of post-investment support.
+- **2020 - 2022:** Founder/CTO, Ling Qi Tech., Hangzhou. We launched an AI fitness micro-cloud screen for public scenarios (Chinese public version of "Mirror").
+After enduring the clouds, one sees the moon clearly. (守得云开见月明)
 
+
+---
 ## News and Updates
-
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
 <br>
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-
+<!-- 
 Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
@@ -50,4 +50,4 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
 - April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+- April 2021：Outstanding volunteer at 4th Digital China Summit<br> -->

@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-
+<!-- 
 Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
@@ -38,4 +38,4 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
 
-  <br>
+  <br> -->
