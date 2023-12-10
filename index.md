@@ -17,7 +17,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am seeking a postdoctoral position starting from Fall 2024. Contact me if you have any leads!**
+**<font color='red'> I am seeking a postdoctoral position starting from Fall 2024. Contact me if you have any leads!</font>**
 
 - **Sep 2019 - Sep 2024:** DREAM-Lab, Zhejiang University (Ph.D. Candidate), collaborating with Prof. Guodong Lu.
 - **Feb 2022 - Sep 2024:** Fast-Lab, Zhejiang University (Exchange), collaborating with Prof. Fei Gao.
