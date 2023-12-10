@@ -9,11 +9,11 @@ layout: page
 
 Here is **Huan Yu (于欢)**.
 
-I am currently pursuing Ph.D at Robotics Institute, Zhejiang University, supervised by Prof. Guodong Lu. I enjoy designing and improving intelligent robots. 
+I am currently pursuing Ph.D at Robotics Institute, Zhejiang University, supervised by Prof. Guodong Lu. I enjoy designing and improving intelligent robots. I also serve as a reviewer for RA-L, ICRA, IROS, J-STP, etc.
 
 Additionally, I am pursuing a minor in Intensive Training Program of Innovation and Entrepreneurship (ITP) at the Chu Kochen Honors College, Zhejiang University. I am keen on exploring business principles and have garnered significant experience in entrepreneurship and investment. 
 
-My ultimate goal is to create value for the betterment of human life.
+My ultimate goal is to create value for the betterment of human life and nature.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *h[dot]yu[at]zju[dot]edu[dot]cn*.
 
