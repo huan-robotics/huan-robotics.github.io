@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'> I am seeking a postdoctoral position starting from Fall 2024. Contact me if you have any leads!</font>**
 
 - **Sep 2019 - Sep 2024:** DREAM-Lab, Zhejiang University (Ph.D. Candidate), collaborating with Prof. Guodong Lu.
-- **Feb 2022 - Sep 2024:** [Fast-Lab](https://zju-fast.com/), Zhejiang University (Exchange), collaborating with Prof. [Fei Gao](https://zju-fast.com/fei-gao/).
+- **Feb 2022 - Sep 2024:** [FAST-Lab](https://zju-fast.com/), Zhejiang University (Exchange), collaborating with Prof. [Fei Gao](https://zju-fast.com/fei-gao/).
 - **Mar 2019 - Sep 2019:** [APRIL Lab](https://april.zju.edu.cn/), Zhejiang University (Visiting), collaborating with Prof. [Yong Liu](https://april.zju.edu.cn/our-team/).
 - **Sep 2016 - June 2019:** Mechanical Engineering, Kunming University of Science and Technology (BSc), collaborating with Prof. Hongbin Liu.
 - **Sep 2015 - June 2016:** Industrial Engineering, Kunming University of Science and Technology.
