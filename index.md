@@ -9,9 +9,9 @@ layout: page
 
 Here is **Huan Yu (于欢)**.
 
-I am currently pursuing Ph.D degree at Zhejiang University, collaborating with Prof. Guodong Lu, Prof. Wang Jin and Prof. Gao Fei. My research focuses on robotics. Additionally, I am keen on exploring business principles and have garnered significant experience in entrepreneurship and investment. My ultimate goal is to create value for the betterment of human life.
+I am currently pursuing Ph.D at Zhejiang University, collaborating with Prof. Guodong Lu, Prof. Wang Jin and Prof. Gao Fei. My research focuses on robotics. Additionally, I am keen on exploring business principles and have garnered significant experience in entrepreneurship and investment. My ultimate goal is to create value for the betterment of human life.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *h[dot]yu[at]zju[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *h[dot]yu[at]zju[dot]edu[dot]cn*.
 
 <br>
 
@@ -34,6 +34,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Motion Planning
 - Autonomous Decision Making (Reinforcement Learning, Differential Games, etc)
 - Robot Design
+
 I am interested in interdisciplinary research that combines “Motion Planning + Others” as they often complement each other.
 
 <br>
@@ -45,6 +46,7 @@ I am a lifetime member of the Future Entrepreneurs Club (FEC), Zhejiang Universi
 - **2018 - 2020：** Investor/Co-founder, Dian Xiao Qi restaurant chain (滇小七). We developed signature dishes such as Burmese Spicy Crabs and leveraged the geographical advantage of bordering Yunnan and Myanmar to purchase ingredients at low cost. We also built the “Dian Xiao Qi” brand IP. During its peak, we opened 5 restaurants in cities like Kunming and Xi’an.
 - **2019 - 2020：** Investment Manager Intern, Tsing Ventures (水木资本). I worked with Yanjiao Ma, focusing on investments in the TMT and hard technology fields. My responsibilities included investment analysis, due diligence, and a small amount of post-investment support.
 - **2020 - 2022:** Founder/CTO, Ling Qi Tech., Hangzhou. We launched an AI fitness micro-cloud screen for public scenarios (Chinese public version of "Mirror").
+
 After enduring the clouds, one sees the moon clearly. (守得云开见月明)
 
 
