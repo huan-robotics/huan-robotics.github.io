@@ -12,7 +12,7 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. Here is my personal website. Welcome 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 -->
-Please visit: [My website](https://huan-robotics.github.io)
+Please Visit [My website](https://huan-robotics.github.io)
 
 ## Statement
 
